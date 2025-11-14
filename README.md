@@ -25,7 +25,7 @@ Powerful and **destructive** bash script that **removes all Docker containers, i
 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/neoslabx/dockwasher.git
+git clone https://github.com/sqoove/dockwasher.git
 cd dockwasher
 ```
 
